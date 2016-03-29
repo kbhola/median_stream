@@ -1,0 +1,5 @@
+
+my min/max heap: 2m14s
+
+my vector      : 36m50s
+stl vector     : 57m51s
